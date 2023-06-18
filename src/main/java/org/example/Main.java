@@ -46,7 +46,7 @@ public class Main {
         }
 
         System.out.println("Unique words: " + myTextConverted);
-        System.out.println("unique words and frequency of occurrence: " + myTextWithStatistics);
+        System.out.println("Unique words and frequency of occurrence: " + myTextWithStatistics);
 
     }
 }
